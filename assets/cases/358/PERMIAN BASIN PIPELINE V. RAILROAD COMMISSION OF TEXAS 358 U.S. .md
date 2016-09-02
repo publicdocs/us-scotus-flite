@@ -1,0 +1,32 @@
+---
+---
+
+# PERMIAN BASIN PIPELINE V. RAILROAD COMMISSION OF TEXAS 358 U.S. 37
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+PERMIAN BASIN PIPELINE V. RAILROAD COMMISSION OF TEXAS 358 U.S. 37
+
+NO. 64.  DECIDED OCTOBER 13, 1958 - APPEAL DISMISSED AND CERTIORARI DENIED - REPORTED BELOW: 302 S.W.2D 238.
+
+PERMIAN BASIN PIPELINE CO. V. RAILROAD COMMISSION OF TEXAS ET AL.
+
+APPEAL FROM THE COURT OF CIVIL APPEALS OF TEXAS, THIRD SUPREME JUDICIAL DISTRICT.
+
+PER CURIAM.
+
+THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED.
+
+TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+
+MR. JUSTICE BLACK IS OF THE OPINION THAT PROBABLE JURISDICTION SHOULD BE NOTED.
+
+
+----------
+----------
+

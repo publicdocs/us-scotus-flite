@@ -1,0 +1,36 @@
+---
+---
+
+# PRICE V. MOSS 374 U.S. 103
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+PRICE V. MOSS 374 U.S. 103
+
+NO. 688.  DECIDED JUNE 10, 1963\* - REPORTED BELOW:  207 F. SUPP. 885.
+
+\*TOGETHER WITH NO. 689, OKLAHOMA FARM BUREAU ET AL. V. MOSS ET AL., ON APPEAL FROM THE SAME COURT.
+
+APPEALS DISMISSED BECAUSE THE ORDER OF THE DISTRICT COURT IS NOT APPEALABLE UNDER 28 U.S.C.  SEC. 1253.
+
+PRICE ET AL. V. MOSS ET AL.
+
+APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF OKLAHOMA.
+
+PER CURIAM.
+
+THE MOTION TO DISMISS IS GRANTED AND THE APPEALS ARE DISMISSED AS THE ORDER OF THE DISTRICT COURT IS NOT APPEALABLE UNDER 28 U.S.C. SEC. 1253.
+
+MR. JUSTICE BLACK AND MR. JUSTICE GOLDBERG CONCUR IN THE RESULT.
+
+MR. JUSTICE HARLAN WOULD POSTPONE CONSIDERATION OF THE QUESTION OF JURISDICTION UNTIL AFTER ARGUMENT ON THE MERITS.
+
+
+----------
+----------
+

@@ -1,0 +1,30 @@
+---
+---
+
+# ARKANSAS PUBLIC SERVICE COMMISSION V. UNITED STATES 355 U.S. 4
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+ARKANSAS PUBLIC SERVICE COMMISSION V. UNITED STATES 355 U.S. 4
+
+NO. 197.  DECIDED OCTOBER 14, 1957 - 147 F. SUPP. 454, AFFIRMED.
+
+ARKANSAS PUBLIC SERVICE COMMISSION V. UNITED STATES ET AL.
+
+APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF ARKANSAS.
+
+PER CURIAM.
+
+THE MOTIONS TO AFFIRM ARE GRANTED AND THE JUDGMENT IS AFFIRMED.
+
+MR. JUSTICE WHITTAKER TOOK NO PART IN THE CONSIDERATION OR DECISION OF THIS CASE.
+
+
+----------
+----------
+

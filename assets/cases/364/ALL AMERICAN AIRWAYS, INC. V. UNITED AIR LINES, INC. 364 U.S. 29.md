@@ -1,0 +1,28 @@
+---
+---
+
+# ALL AMERICAN AIRWAYS, INC. V. UNITED AIR LINES, INC. 364 U.S. 297
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+ALL AMERICAN AIRWAYS, INC. V. UNITED AIR LINES, INC. 364 U.S. 297
+
+NO. 129.  DECIDED OCTOBER 24, 1960 - CERTIORARI GRANTED; JUDGMENT VACATED; AND CASE REMANDED - REPORTED BELOW:  108 U.S. APP. D.C. 1, 278 F.2D 446.
+
+ALL AMERICAN AIRWAYS, INC., ET AL. V. UNITED AIR LINES, INC., ET AL.
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT.
+
+PER CURIAM.
+
+THE PETITION FOR WRIT OF CERTIORARI IS GRANTED.  THE JUDGMENT IS VACATED AND THE CASE IS REMANDED TO THE COURT OF APPEALS WITH INSTRUCTIONS TO RETAIN JURISDICTION UNTIL SUCH TIME AS FURTHER LEGISLATION HAS BEEN ENACTED OR PUBLIC LAW 86-661 (ACT OF JULY 14, 1960, 74 STAT. 527) HAS EXPIRED.
+
+
+----------
+----------
+

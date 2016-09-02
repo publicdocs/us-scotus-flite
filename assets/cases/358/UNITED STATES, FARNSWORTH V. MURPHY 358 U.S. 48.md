@@ -1,0 +1,28 @@
+---
+---
+
+# UNITED STATES, FARNSWORTH V. MURPHY 358 U.S. 48
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+UNITED STATES, FARNSWORTH V. MURPHY 358 U.S. 48
+
+NO. 82, MISC.  DECIDED OCTOBER 13, 1958 - CERTIORARI GRANTED - JUDGMENT VACATED AND CASE REMANDED TO DISTRICT COURT FOR A HEARING - REPORTED BELOW:  254 F.2D 438.
+
+UNITED STATES EX REL. FARNSWORTH V. MURPHY, WARDEN, ET AL.
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.
+
+PER CURIAM.
+
+THE MOTION FOR LEAVE TO PROCEED IN FORMA PAUPERIS AND THE PETITION FOR WRIT OF CERTIORARI ARE GRANTED.  THE JUDGMENT OF THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT IS VACATED AND THE CASE IS REMANDED TO THE DISTRICT COURT FOR A HEARING.
+
+
+----------
+----------
+

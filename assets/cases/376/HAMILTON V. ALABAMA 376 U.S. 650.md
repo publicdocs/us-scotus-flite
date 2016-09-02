@@ -1,0 +1,32 @@
+---
+---
+
+# HAMILTON V. ALABAMA 376 U.S. 650
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+HAMILTON V. ALABAMA 376 U.S. 650
+
+NO. 793.  DECIDED MARCH 30, 1964.  - CERTIORARI GRANTED AND JUDGMENT REVERSED.  - REPORTED BELOW:  275 ALA. 574, 156 SO. 2D 926.
+
+HAMILTON V. ALABAMA.
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF ALABAMA.
+
+PER CURIAM.
+
+THE PETITION FOR WRIT OF CERTIORARI IS GRANTED.  THE JUDGMENT IS REVERSED.  JOHNSON V. VIRGINIA, 373 U.S. 61.
+
+MR. JUSTICE BLACK CONCURS IN REVERSAL OF THE JUDGMENT OF CONTEMPT FOR REASONS DISCUSSED IN IN RE MURCHISON, 349 U.S. 133, IN RE OLIVER, 333 U.S. 257, AND THOMPSON V. CITY OF LOUISVILLE, 362 U.S. 199.  CF. OFFUTT V. UNITED STATES, 348 U.S. 11.
+
+MR. JUSTICE CLARK, MR. JUSTICE HARLAN AND MR. JUSTICE WHITE ARE OF THE OPINION THAT CERTIORARI SHOULD BE DENIED.
+
+
+----------
+----------
+

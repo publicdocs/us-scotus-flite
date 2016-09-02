@@ -1,0 +1,30 @@
+---
+---
+
+# ROGERS V. RICHMOND 357 U.S. 220
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+ROGERS V. RICHMOND 357 U.S. 220
+
+NO. 755, MISC.  DECIDED JUNE 16, 1958.
+
+CERTIORARI DENIED WITH STATEMENT AS TO EFFECT OF OPINION OF COURT OF APPEALS IN 252 F.2D 807.
+
+ROGERS V. RICHMOND, WARDEN.
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.
+
+PER CURIAM.
+
+THE PETITION FOR WRIT OF CERTIORARI IS DENIED.  WE READ THE OPINION OF THE COURT OF APPEALS AS HOLDING THAT WHILE THE DISTRICT JUDGE MAY, UNLESS HE FINDS A VITAL FLAW IN THE STATE COURT PROCEEDINGS, ACCEPT THE DETERMINATION IN SUCH PROCEEDINGS, HE NEED NOT DEEM SUCH DETERMINATION BINDING, AND MAY TAKE TESTIMONY.  SEE BROWN V. ALLEN, 344 U.S. 443, 506, ET SEQ.
+
+
+----------
+----------
+

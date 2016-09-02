@@ -1,0 +1,36 @@
+---
+---
+
+# ROSS V. CALIFORNIA, 391 U.S. 470
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+ROSS V. CALIFORNIA, 391 U.S. 470
+
+ROSS V. CALIFORNIA.
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF CALIFORNIA.
+
+NO. 798, MISC.  DECIDED MAY 27, 1968.
+
+CERTIORARI GRANTED; 67 CAL.2D 64, 429 P.2D 606, REVERSED.
+
+PER CURIAM.
+
+THE MOTION FOR LEAVE TO PROCEED IN FORMA PAUPERIS AND THE PETITION FOR A WRIT OF CERTIORARI ARE GRANTED.  THE JUDGMENT IS REVERSED.
+
+CHAPMAN V. CALIFORNIA, 386 U.S.18, AND ANDERSON V. NELSON, 390 U.S. 523.
+
+MR. JUSTICE BLACK IS OF THE OPINION THAT CERTIORARI SHOULD BE DENIED.
+
+THOMAS C. LYNCH, ATTORNEY GENERAL OF CALIFORNIA, WILLIAM E. JAMES, ASSISTANT ATTORNEY GENERAL, AND WALTER R. JONES, DEPUTY ATTORNEY GENERAL FOR RESPONDENT.
+
+
+----------
+----------
+

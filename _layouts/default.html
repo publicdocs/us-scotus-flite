@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+  <style type="text/css">
+body {
+    margin: 10px;
+    padding: 0;
+}
+  </style>
+</head>
+<body>
+<h3 class="title"><a href="https://github.com/publicdocs" class='parent-project'>publicdocs</a>/us-scotus-flite - SCOTUS Opinions 1937 to 1975</h3>
+<div class="tagline">The publicdocs project is an educational initiative to better understand the public documents that form the foundation of our society (not affiliated with any government agency)</div>
+
+
+<hr/>
+
+<div class="main">
+{{ content }}
+</div>
+
+
+<hr/>
+<footer>
+  <small>
+Portions © 2016 the authors of the <a href="https://github.com/publicdocs">https://github.com/publicdocs</a> project.
+Use subject to the <a href="https://github.com/publicdocs/notice/blob/master/NOTICE">NOTICE</a>.
+No affiliation with or endorsement of or by any third party is implied. Not responsible for third-party services or links.</small>
+</footer>
+
+<script type="text/javascript">
+$(function() {
+  document.title = $('h1').text();
+});
+</script>
+
+</body>
+</html>

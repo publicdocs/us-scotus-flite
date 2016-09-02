@@ -1,0 +1,30 @@
+---
+---
+
+# MARKIS V. UNITED STATES 387 U.S. 425
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+MARKIS V. UNITED STATES 387 U.S. 425
+
+NO. 43.  DECIDED MAY 29, 1967.\* - CERTIORARI GRANTED; NO. 43, 352 F.2D 860, NO. 64, 353 F.2D 672, VACATED AND REMANDED.
+
+\*TOGETHER WITH NO. 64, MORETTI V. UNITED STATES, ALSO ON PETITION FOR WRIT OF CERTIORARI TO THE SAME COURT.
+
+MARKIS V. UNITED STATES.
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.
+
+PER CURIAM.
+
+THE PETITIONS FOR WRITS OF CERTIORARI ARE GRANTED, THE JUDGMENTS VACATED AND THE CASES REMANDED TO THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF CONNECTICUT FOR A NEW TRIAL, SHOULD THE GOVERNMENT SEEK TO PROSECUTE PETITIONERS ANEW.  NARDONE V. UNITED STATES, 302 U.S. 379; NARDONE V. UNITED STATES, 308 U.S. 338.
+
+
+----------
+----------
+

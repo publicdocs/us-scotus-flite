@@ -1,0 +1,32 @@
+---
+---
+
+# NATIONWIDE MUTUAL INSURANCE CO. V. VAAGE, 390 U.S. 714
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+NATIONWIDE MUTUAL INSURANCE CO. V. VAAGE, 390 U.S. 714
+
+NATIONWIDE MUTUAL INSURANCE CO. V. VAAGE ET AL. APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF NEW YORK.
+
+NO. 1177.  DECIDED APRIL 22, 1968.
+
+265 F.SUPP.  556, APPEAL DISMISSED.
+
+PER CURIAM.
+
+THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF JURISDICTION.
+
+CHARLES G. PILLON AND THOMAS A. ZIEBARTH FOR APPELLANT.
+
+LOUIS J. LEFKOWITZ, ATTORNEY GENERAL OF NEW YORK, SAMUEL A. HIRSHOWITZ, FIRST ASSISTANT ATTORNEY GENERAL, AND JOEL LEWITTES, ASSISTANT ATTORNEY GENERAL, FOR APPELLEES ROCKEFELLER ET AL.
+
+
+----------
+----------
+

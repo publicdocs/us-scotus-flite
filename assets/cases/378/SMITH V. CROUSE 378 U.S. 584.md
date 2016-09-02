@@ -1,0 +1,32 @@
+---
+---
+
+# SMITH V. CROUSE 378 U.S. 584
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+SMITH V. CROUSE 378 U.S. 584
+
+NO. 915, MISC.  DECIDED JUNE 22, 1964.  - CERTIORARI GRANTED AND JUDGMENT REVERSED.  - REPORTED BELOW: 192 KAN. 171, 386 P.2D 295.
+
+SMITH V. CROUSE, WARDEN.
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF KANSAS.
+
+PER CURIAM.
+
+THE MOTION FOR LEAVE TO PROCEED IN FORMA PAUPERIS AND THE PETITION FOR WRIT OF CERTIORARI ARE GRANTED.  THE JUDGMENT IS REVERSED.  DOUGLAS V. CALIFORNIA, 372 U.S. 353.
+
+MR. JUSTICE HARLAN, DISSENTING.
+
+IN MY OPINION THE QUESTION WHETHER DOUGLAS V. CALIFORNIA, 372 U.S. 353, SHOULD BE GIVEN RETROACTIVE APPLICATION IS DESERVING OF PLENARY CONSIDERATION.  CF. MY DISSENTING OPINION IN LAVALLEE V. DUROCHER, 377 U.S. 998.
+
+
+----------
+----------
+

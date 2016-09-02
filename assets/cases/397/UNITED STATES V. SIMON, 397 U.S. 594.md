@@ -1,0 +1,30 @@
+---
+---
+
+# UNITED STATES V. SIMON, 397 U.S. 594
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+UNITED STATES V. SIMON, 397 U.S. 594
+
+UNITED STATES V. SIMON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF WISCONSIN NO. 742.  DECIDED APRIL 20, 1970
+
+301 F.SUPP.  859, VACATED AND REMANDED.
+
+PER CURIAM.
+
+THE JUDGMENT IS VACATED AND THE CASE IS REMANDED TO THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF WISCONSIN WITH INSTRUCTIONS TO REINSTATE COUNT 1 OF THE INDICTMENT, CHARGING A VIOLATION OF 26 U.S.C. 4742(A).
+
+SOLICITOR GENERAL GRISWOLD, ASSISTANT ATTORNEY GENERAL WILSON, BEATRICE ROSENBERG, AND MERVYN HAMBURG FOR THE UNITED STATES.
+
+JACK MCMANUS FOR APPELLEE.
+
+
+----------
+----------
+

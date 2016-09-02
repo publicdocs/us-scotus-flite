@@ -1,0 +1,30 @@
+---
+---
+
+# COMMISSIONER OF INTERNAL REVENUE V. SCHLUDE 367 U.S. 911
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+COMMISSIONER OF INTERNAL REVENUE V. SCHLUDE 367 U.S. 911
+
+NO. 629.  DECIDED JUNE 19, 1961 - CERTIORARI GRANTED; JUDGMENT VACATED; AND CASE REMANDED - REPORTED BELOW:  283 F.2D 234.
+
+COMMISSIONER OF INTERNAL REVENUE V. SCHLUDE ET UX.
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT.
+
+PER CURIAM.
+
+THE PETITION FOR WRIT OF CERTIORARI IS GRANTED.  THE JUDGMENT IS VACATED AND THE CASE IS REMANDED FOR FURTHER CONSIDERATION IN THE LIGHT OF AMERICAN AUTOMOBILE ASSOCIATION V. UNITED STATES, ANTE.  P. 687.
+
+MR. JUSTICE DOUGLAS DISSENTS.
+
+
+----------
+----------
+

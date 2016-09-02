@@ -1,0 +1,32 @@
+---
+---
+
+# SCHACKMAN V. CALIFORNIA 388 U.S. 454
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+SCHACKMAN V. CALIFORNIA 388 U.S. 454
+
+NO. 995.  DECIDED JUNE 12, 1967.  - JUDGMENTS REVERSED.
+
+SCHACKMAN ET AL. V. CALIFORNIA
+
+APPEAL FROM THE SUPERIOR COURT OF CALIFORNIA, COUNTY OF LOS ANGELES.
+
+PER CURIAM.
+
+THE JUDGMENTS OF THE SUPERIOR COURT OF CALIFORNIA, COUNTY OF LOS ANGELES, ARE REVERSED.  REDRUP V. NEW YORK, 386 U.S. 767.
+
+THE CHIEF JUSTICE, MR. JUSTICE CLARK, AND MR. JUSTICE BRENNAN WOULD AFFIRM THE JUDGMENTS OF THE LOWER COURT.  GINZBURG V. UNITED STATES, 383 U.S. 463.
+
+MR. JUSTICE HARLAN ADHERES TO THE VIEWS EXPRESSED IN HIS SEPARATE OPINIONS IN ROTH V. UNITED STATES, 354 U.S. 476, 496, AND MEMOIRS V. MASSACHUSETTS, 383 U.S. 413, 455, AND ON THE BASIS OF THE REASONING SET FORTH THEREIN WOULD AFFIRM.
+
+
+----------
+----------
+

@@ -1,0 +1,32 @@
+---
+---
+
+# STANDARD FRUIT & STEAMSHIP CO. V. UNITED FRUIT CO., 393 U.S. 406
+
+* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
+* See the [Document Metadata](../../../) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+STANDARD FRUIT & STEAMSHIP CO. V. UNITED FRUIT CO., 393 U.S. 406
+
+STANDARD FRUIT & STEAMSHIP CO. V. UNITED FRUIT CO. ET AL. APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF LOUISIANA.
+
+NO. 740.  DECIDED JANUARY 20, 1969.
+
+APPEAL DISMISSED.
+
+PER CURIAM.
+
+THE MOTIONS TO DISMISS ARE GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF JURISDICTION.  SHENANDOAH VALLEY BROADCASTING, INC. V. AMERICAN SOCIETY OF COMPOSERS, AUTHORS & PUBLISHERS, 375 U.S. 39.
+
+EBERHARD P. DEUTSCH, ROBERT M. MOORE, AND RENE H. HIMEL, JR., FOR APPELLANT.
+
+HUGH B. COX AND JAMES H. MCGLOTHLIN FOR UNITED FRUIT CO., AND SOLICITOR GENERAL GRISWOLD FOR THE UNITED STATES, APPELLEES.
+
+
+----------
+----------
+
