@@ -1,36 +1,47 @@
 ---
+title: LEWINSON V. CREWS, 393 U.S. 13
 ---
 
 # LEWINSON V. CREWS, 393 U.S. 13
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-LEWINSON V. CREWS, 393 U.S. 13
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F393%2F13)
 
-LEWINSON V. CREWS, COUNTY CLERK OF KINGS COUNTY.
+----------
 
-APPEAL FROM THE COURT OF APPEALS OF NEW YORK.
+    LEWINSON V. CREWS, [393 U.S. 13][/us/courts/scotus/usReporter/393/13]
 
-NO. 230.  DECIDED OCTOBER 14, 1968.
+    LEWINSON V. CREWS, COUNTY CLERK OF KINGS COUNTY.
 
-APPEAL DISMISSED.
+    APPEAL FROM THE COURT OF APPEALS OF NEW YORK.
 
-PER CURIAM.
+    NO. 230.  DECIDED OCTOBER 14, 1968.
 
-THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+    APPEAL DISMISSED.
 
-MR. JUSTICE DOUGLAS IS OF THE OPINION THAT PROBABLE JURISDICTION SHOULD BE NOTED.
+    PER CURIAM.
 
-EMANUEL REDFIELD FOR APPELLANT.
+    THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
 
-SEYMOUR BESUNDER FOR APPELLEE.
+    MR. JUSTICE DOUGLAS IS OF THE OPINION THAT PROBABLE JURISDICTION SHOULD BE NOTED.
 
+    EMANUEL REDFIELD FOR APPELLANT.
+
+    SEYMOUR BESUNDER FOR APPELLEE.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F393%2F13)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/393/13]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F393%2F13
+
 

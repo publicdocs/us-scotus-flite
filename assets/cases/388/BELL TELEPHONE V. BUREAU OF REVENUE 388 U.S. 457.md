@@ -1,28 +1,39 @@
 ---
+title: BELL TELEPHONE V. BUREAU OF REVENUE 388 U.S. 457
 ---
 
 # BELL TELEPHONE V. BUREAU OF REVENUE 388 U.S. 457
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-BELL TELEPHONE V. BUREAU OF REVENUE 388 U.S. 457
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F388%2F457)
 
-NO. 1265.  DECIDED JUNE 12, 1967.  - 78 N.M. 78, 428 P.2D 617, APPEAL DISMISSED.
+----------
 
-BELL TELEPHONE LABORATORIES, INC., ET AL. V. BUREAU OF REVENUE OF NEW MEXICO ET AL.
+    BELL TELEPHONE V. BUREAU OF REVENUE [388 U.S. 457][/us/courts/scotus/usReporter/388/457]
 
-APPEAL FROM THE SUPREME COURT OF NEW MEXICO.
+    NO. 1265.  DECIDED JUNE 12, 1967.  - 78 N.M. 78, 428 P.2D 617, APPEAL DISMISSED.
 
-PER CURIAM.
+    BELL TELEPHONE LABORATORIES, INC., ET AL. V. BUREAU OF REVENUE OF NEW MEXICO ET AL.
 
-THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+    APPEAL FROM THE SUPREME COURT OF NEW MEXICO.
 
+    PER CURIAM.
+
+    THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F388%2F457)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/388/457]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F388%2F457
+
 

@@ -1,30 +1,42 @@
 ---
+title: HARRIS V. CALIFORNIA 374 U.S. 499
 ---
 
 # HARRIS V. CALIFORNIA 374 U.S. 499
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-HARRIS V. CALIFORNIA 374 U.S. 499
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F374%2F499)
 
-NO. 135, MISC.  DECIDED JUNE 17, 1963 - CERTIORARI GRANTED; JUDGMENT VACATED; AND CASE REMANDED - REPORTED BELOW:  SEE 199 CAL. APP. 2D 474, 18 CAL. RPTR.  708.
+----------
 
-HARRIS V. CALIFORNIA ET AL.
+    HARRIS V. CALIFORNIA [374 U.S. 499][/us/courts/scotus/usReporter/374/499]
 
-ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF CALIFORNIA.
+    NO. 135, MISC.  DECIDED JUNE 17, 1963 - CERTIORARI GRANTED; JUDGMENT VACATED; AND CASE REMANDED - REPORTED BELOW:  SEE 199 CAL. APP. 2D 474, 18 CAL. RPTR.  708.
 
-PER CURIAM.
+    HARRIS V. CALIFORNIA ET AL.
 
-THE MOTION FOR LEAVE TO PROCEED IN FORMA PAUPERIS AND THE PETITION FOR WRIT OF CERTIORARI ARE GRANTED.  THE JUDGMENT IS VACATED AND THE CASE IS REMANDED FOR FURTHER CONSIDERATION IN LIGHT OF DOUGLAS V. CALIFORNIA, 372 U.S. 353.
+    ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT OF CALIFORNIA.
 
-MR. JUSTICE CLARK AND MR. JUSTICE HARLAN DISSENT FOR THE REASONS STATED IN THEIR DISSENTING OPINIONS IN DOUGLAS V. CALIFORNIA, 372 U.S., AT 358, 360.
+    PER CURIAM.
 
+    THE MOTION FOR LEAVE TO PROCEED IN FORMA PAUPERIS AND THE PETITION FOR WRIT OF CERTIORARI ARE GRANTED.  THE JUDGMENT IS VACATED AND THE CASE IS REMANDED FOR FURTHER CONSIDERATION IN LIGHT OF DOUGLAS V. CALIFORNIA, [372 U.S. 353][/us/courts/scotus/usReporter/372/353].
+
+    MR. JUSTICE CLARK AND MR. JUSTICE HARLAN DISSENT FOR THE REASONS STATED IN THEIR DISSENTING OPINIONS IN DOUGLAS V. CALIFORNIA, 372 U.S., AT 358, 360.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F374%2F499)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/374/499]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F374%2F499
+[/us/courts/scotus/usReporter/372/353]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F372%2F353
+
 

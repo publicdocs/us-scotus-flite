@@ -1,28 +1,39 @@
 ---
+title: MCMORRIS V. CALIFORNIA 383 U.S. 102
 ---
 
 # MCMORRIS V. CALIFORNIA 383 U.S. 102
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-MCMORRIS V. CALIFORNIA 383 U.S. 102
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F383%2F102)
 
-NO. 1036, MISC.  DECIDED FEBRUARY 21, 1966.  - APPEAL DISMISSED AND CERTIORARI DENIED.
+----------
 
-MCMORRIS V. CALIFORNIA.
+    MCMORRIS V. CALIFORNIA [383 U.S. 102][/us/courts/scotus/usReporter/383/102]
 
-APPEAL FROM THE APPELLATE DEPARTMENT OF THE SUPERIOR COURT OF CALIFORNIA, COUNTY OF SACRAMENTO.
+    NO. 1036, MISC.  DECIDED FEBRUARY 21, 1966.  - APPEAL DISMISSED AND CERTIORARI DENIED.
 
-PER CURIAM.
+    MCMORRIS V. CALIFORNIA.
 
-THE APPEAL IS DISMISSED FOR WANT OF JURISDICTION.  TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR A WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+    APPEAL FROM THE APPELLATE DEPARTMENT OF THE SUPERIOR COURT OF CALIFORNIA, COUNTY OF SACRAMENTO.
 
+    PER CURIAM.
+
+    THE APPEAL IS DISMISSED FOR WANT OF JURISDICTION.  TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR A WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F383%2F102)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/383/102]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F383%2F102
+
 

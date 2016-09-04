@@ -1,28 +1,39 @@
 ---
+title: UNITED STATES, FARNSWORTH V. MURPHY 358 U.S. 48
 ---
 
 # UNITED STATES, FARNSWORTH V. MURPHY 358 U.S. 48
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-UNITED STATES, FARNSWORTH V. MURPHY 358 U.S. 48
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F358%2F48)
 
-NO. 82, MISC.  DECIDED OCTOBER 13, 1958 - CERTIORARI GRANTED - JUDGMENT VACATED AND CASE REMANDED TO DISTRICT COURT FOR A HEARING - REPORTED BELOW:  254 F.2D 438.
+----------
 
-UNITED STATES EX REL. FARNSWORTH V. MURPHY, WARDEN, ET AL.
+    UNITED STATES, FARNSWORTH V. MURPHY [358 U.S. 48][/us/courts/scotus/usReporter/358/48]
 
-ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.
+    NO. 82, MISC.  DECIDED OCTOBER 13, 1958 - CERTIORARI GRANTED - JUDGMENT VACATED AND CASE REMANDED TO DISTRICT COURT FOR A HEARING - REPORTED BELOW:  254 F.2D 438.
 
-PER CURIAM.
+    UNITED STATES EX REL. FARNSWORTH V. MURPHY, WARDEN, ET AL.
 
-THE MOTION FOR LEAVE TO PROCEED IN FORMA PAUPERIS AND THE PETITION FOR WRIT OF CERTIORARI ARE GRANTED.  THE JUDGMENT OF THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT IS VACATED AND THE CASE IS REMANDED TO THE DISTRICT COURT FOR A HEARING.
+    ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT.
 
+    PER CURIAM.
+
+    THE MOTION FOR LEAVE TO PROCEED IN FORMA PAUPERIS AND THE PETITION FOR WRIT OF CERTIORARI ARE GRANTED.  THE JUDGMENT OF THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT IS VACATED AND THE CASE IS REMANDED TO THE DISTRICT COURT FOR A HEARING.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F358%2F48)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/358/48]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F358%2F48
+
 

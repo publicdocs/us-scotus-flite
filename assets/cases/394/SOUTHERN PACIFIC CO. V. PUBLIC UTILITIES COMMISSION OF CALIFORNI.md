@@ -1,36 +1,47 @@
 ---
+title: SOUTHERN PACIFIC CO. V. PUBLIC UTILITIES COMMISSION OF CALIFORNIA, 394 U.S. 845
 ---
 
 # SOUTHERN PACIFIC CO. V. PUBLIC UTILITIES COMMISSION OF CALIFORNIA, 394 U.S. 845
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-SOUTHERN PACIFIC CO. V. PUBLIC UTILITIES COMMISSION OF CALIFORNIA, 394 U.S. 845
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F394%2F845)
 
-SOUTHERN PACIFIC CO. V. PUBLIC UTILITIES COMMISSION OF CALIFORNIA.
+----------
 
-APPEAL FROM THE SUPREME COURT OF CALIFORNIA.
+    SOUTHERN PACIFIC CO. V. PUBLIC UTILITIES COMMISSION OF CALIFORNIA, [394 U.S. 845][/us/courts/scotus/usReporter/394/845]
 
-NO. 1050.  DECIDED MAY 5, 1969.
+    SOUTHERN PACIFIC CO. V. PUBLIC UTILITIES COMMISSION OF CALIFORNIA.
 
-APPEAL DISMISSED.
+    APPEAL FROM THE SUPREME COURT OF CALIFORNIA.
 
-PER CURIAM.
+    NO. 1050.  DECIDED MAY 5, 1969.
 
-THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+    APPEAL DISMISSED.
 
-MR. JUSTICE BLACK AND MR. JUSTICE DOUGLAS ARE OF THE OPINION THAT PROBABLE JURISDICTION SHOULD BE NOTED.
+    PER CURIAM.
 
-ROBERT L. PIERCE FOR APPELLANT.
+    THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
 
-MARY MORAN PAJALICH FOR APPELLEE.
+    MR. JUSTICE BLACK AND MR. JUSTICE DOUGLAS ARE OF THE OPINION THAT PROBABLE JURISDICTION SHOULD BE NOTED.
 
+    ROBERT L. PIERCE FOR APPELLANT.
+
+    MARY MORAN PAJALICH FOR APPELLEE.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F394%2F845)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/394/845]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F394%2F845
+
 

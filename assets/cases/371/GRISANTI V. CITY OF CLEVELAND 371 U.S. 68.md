@@ -1,28 +1,39 @@
 ---
+title: GRISANTI V. CITY OF CLEVELAND 371 U.S. 68
 ---
 
 # GRISANTI V. CITY OF CLEVELAND 371 U.S. 68
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-GRISANTI V. CITY OF CLEVELAND 371 U.S. 68
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F371%2F68)
 
-NO. 353.  DECIDED NOVEMBER 5, 1962.  - APPEAL DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.  - REPORTED BELOW:  173 OHIO ST. 386, 182 N.E.2D 568.
+----------
 
-GRISANTI V. CITY OF CLEVELAND ET AL.
+    GRISANTI V. CITY OF CLEVELAND [371 U.S. 68][/us/courts/scotus/usReporter/371/68]
 
-APPEAL FROM THE SUPREME COURT OF OHIO.
+    NO. 353.  DECIDED NOVEMBER 5, 1962.  - APPEAL DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.  - REPORTED BELOW:  173 OHIO ST. 386, 182 N.E.2D 568.
 
-PER CURIAM.
+    GRISANTI V. CITY OF CLEVELAND ET AL.
 
-THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+    APPEAL FROM THE SUPREME COURT OF OHIO.
 
+    PER CURIAM.
+
+    THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F371%2F68)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/371/68]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F371%2F68
+
 

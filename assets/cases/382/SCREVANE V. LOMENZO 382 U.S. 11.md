@@ -1,32 +1,43 @@
 ---
+title: SCREVANE V. LOMENZO 382 U.S. 11
 ---
 
 # SCREVANE V. LOMENZO 382 U.S. 11
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-SCREVANE V. LOMENZO 382 U.S. 11
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F382%2F11)
 
-NO. 449.  DECIDED OCTOBER 11, 1965.  - AFFIRMED.
+----------
 
-SCREVANE, PRESIDENT OF CITY COUNCIL OF CITY OF NEW YORK, ET AL. V. LOMENZO, SECRETARY OF STATE OF NEW YORK, ET AL.
+    SCREVANE V. LOMENZO [382 U.S. 11][/us/courts/scotus/usReporter/382/11]
 
-APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOURTHERN DISTRICT OF NEW YORK.
+    NO. 449.  DECIDED OCTOBER 11, 1965.  - AFFIRMED.
 
-PER CURIAM.
+    SCREVANE, PRESIDENT OF CITY COUNCIL OF CITY OF NEW YORK, ET AL. V. LOMENZO, SECRETARY OF STATE OF NEW YORK, ET AL.
 
-THE MOTIONS TO AFFIRM ARE GRANTED AND THE JUDGMENT IS AFFIRMED.
+    APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOURTHERN DISTRICT OF NEW YORK.
 
-MR. JUSTICE FORTAS TOOK NO PART IN THE CONSIDERATION OR DECISION OF THIS CASE.
+    PER CURIAM.
 
-FOR CONCURRING OPINION OF MR. JUSTICE HARLAN, SEE NO. 85, WMCA, INC., ET AL. V. LOMENZO, SECRETARY OF STATE OF NEW YORK, ET AL., ANTE, P. 4.
+    THE MOTIONS TO AFFIRM ARE GRANTED AND THE JUDGMENT IS AFFIRMED.
 
+    MR. JUSTICE FORTAS TOOK NO PART IN THE CONSIDERATION OR DECISION OF THIS CASE.
+
+    FOR CONCURRING OPINION OF MR. JUSTICE HARLAN, SEE NO. 85, WMCA, INC., ET AL. V. LOMENZO, SECRETARY OF STATE OF NEW YORK, ET AL., ANTE, P. 4.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F382%2F11)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/382/11]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F382%2F11
+
 

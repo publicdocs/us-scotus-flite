@@ -1,28 +1,39 @@
 ---
+title: NEW YORK, VALENTI V. MCCLOSKEY 361 U.S. 534
 ---
 
 # NEW YORK, VALENTI V. MCCLOSKEY 361 U.S. 534
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-NEW YORK, VALENTI V. MCCLOSKEY 361 U.S. 534
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F361%2F534)
 
-NO. 563.  DECIDED FEBRUARY 23, 1960 - APPEAL DISMISSED FOR WANT OF A PROPERLY PRESENTED FEDERAL QUESTION - REPORTED BELOW:  6 N.Y.2D 390, 160 N.E.2D 647.
+----------
 
-NEW YORK EX REL. VALENTI V. MCCLOSKEY, SHERIFF, ET AL.
+    NEW YORK, VALENTI V. MCCLOSKEY [361 U.S. 534][/us/courts/scotus/usReporter/361/534]
 
-APPEAL FROM THE COURT OF APPEALS OF NEW YORK.
+    NO. 563.  DECIDED FEBRUARY 23, 1960 - APPEAL DISMISSED FOR WANT OF A PROPERLY PRESENTED FEDERAL QUESTION - REPORTED BELOW:  6 N.Y.2D 390, 160 N.E.2D 647.
 
-PER CURIAM.
+    NEW YORK EX REL. VALENTI V. MCCLOSKEY, SHERIFF, ET AL.
 
-THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A PROPERLY PRESENTED FEDERAL QUESTION.
+    APPEAL FROM THE COURT OF APPEALS OF NEW YORK.
 
+    PER CURIAM.
+
+    THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A PROPERLY PRESENTED FEDERAL QUESTION.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F361%2F534)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/361/534]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F361%2F534
+
 

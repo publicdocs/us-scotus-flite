@@ -1,28 +1,39 @@
 ---
+title: MCQUAID V. CALIFORNIA 385 U.S. 648
 ---
 
 # MCQUAID V. CALIFORNIA 385 U.S. 648
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-MCQUAID V. CALIFORNIA 385 U.S. 648
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F385%2F648)
 
-NO. 584, MISC.  DECIDED JANUARY 23, 1967.  - APPEAL DISMISSED AND CERTIORARI DENIED.
+----------
 
-MCQUAID V. CALIFORNIA.
+    MCQUAID V. CALIFORNIA [385 U.S. 648][/us/courts/scotus/usReporter/385/648]
 
-APPEAL FROM THE DISTRICT COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.
+    NO. 584, MISC.  DECIDED JANUARY 23, 1967.  - APPEAL DISMISSED AND CERTIORARI DENIED.
 
-PER CURIAM.
+    MCQUAID V. CALIFORNIA.
 
-THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF JURISDICTION.  TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR A WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+    APPEAL FROM THE DISTRICT COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.
 
+    PER CURIAM.
+
+    THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF JURISDICTION.  TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR A WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F385%2F648)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/385/648]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F385%2F648
+
 

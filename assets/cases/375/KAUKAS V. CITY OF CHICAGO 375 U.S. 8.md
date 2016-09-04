@@ -1,28 +1,39 @@
 ---
+title: KAUKAS V. CITY OF CHICAGO 375 U.S. 8
 ---
 
 # KAUKAS V. CITY OF CHICAGO 375 U.S. 8
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-KAUKAS V. CITY OF CHICAGO 375 U.S. 8
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F375%2F8)
 
-NO. 259.  DECIDED OCTOBER 14, 1963.  - APPEAL DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.  - REPORTED BELOW:  27 ILL. 2D 197, 188 N.E.2D 700.
+----------
 
-KAUKAS ET UX. V. CITY OF CHICAGO.
+    KAUKAS V. CITY OF CHICAGO [375 U.S. 8][/us/courts/scotus/usReporter/375/8]
 
-APPEAL FROM THE SUPREME COURT OF ILLINOIS.
+    NO. 259.  DECIDED OCTOBER 14, 1963.  - APPEAL DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.  - REPORTED BELOW:  27 ILL. 2D 197, 188 N.E.2D 700.
 
-PER CURIAM.
+    KAUKAS ET UX. V. CITY OF CHICAGO.
 
-THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+    APPEAL FROM THE SUPREME COURT OF ILLINOIS.
 
+    PER CURIAM.
+
+    THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F375%2F8)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/375/8]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F375%2F8
+
 

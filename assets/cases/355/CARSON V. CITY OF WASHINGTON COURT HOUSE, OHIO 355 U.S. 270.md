@@ -1,28 +1,39 @@
 ---
+title: CARSON V. CITY OF WASHINGTON COURT HOUSE, OHIO 355 U.S. 270
 ---
 
 # CARSON V. CITY OF WASHINGTON COURT HOUSE, OHIO 355 U.S. 270
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-CARSON V. CITY OF WASHINGTON COURT HOUSE, OHIO 355 U.S. 270
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F355%2F270)
 
-NO. 583.  DECIDED DECEMBER 16, 1957 - APPEAL DISMISSED AND CERTIORARI DENIED.
+----------
 
-CARSON V. CITY OF WASHINGTON COURT HOUSE, OHIO.
+    CARSON V. CITY OF WASHINGTON COURT HOUSE, OHIO [355 U.S. 270][/us/courts/scotus/usReporter/355/270]
 
-APPEAL FROM THE SUPREME COURT OF OHIO.
+    NO. 583.  DECIDED DECEMBER 16, 1957 - APPEAL DISMISSED AND CERTIORARI DENIED.
 
-PER CURIAM.
+    CARSON V. CITY OF WASHINGTON COURT HOUSE, OHIO.
 
-THE APPEAL IS DISMISSED.  TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+    APPEAL FROM THE SUPREME COURT OF OHIO.
 
+    PER CURIAM.
+
+    THE APPEAL IS DISMISSED.  TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F355%2F270)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/355/270]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F355%2F270
+
 

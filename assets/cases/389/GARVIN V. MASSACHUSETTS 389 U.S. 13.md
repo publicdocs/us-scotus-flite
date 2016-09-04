@@ -1,28 +1,39 @@
 ---
+title: GARVIN V. MASSACHUSETTS 389 U.S. 13
 ---
 
 # GARVIN V. MASSACHUSETTS 389 U.S. 13
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-GARVIN V. MASSACHUSETTS 389 U.S. 13
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F389%2F13)
 
-NO. 74, MISC.  DECIDED OCTOBER 9, 1967.  - 351 MASS. 661, 223 N.E.2D 396, APPEAL DISMISSED AND CERTIORARI DENIED.
+----------
 
-GARVIN V. MASSACHUSETTS.
+    GARVIN V. MASSACHUSETTS [389 U.S. 13][/us/courts/scotus/usReporter/389/13]
 
-APPEAL FROM THE SUPREME JUDICIAL COURT OF MASSACHUSETTS.
+    NO. 74, MISC.  DECIDED OCTOBER 9, 1967.  - 351 MASS. 661, 223 N.E.2D 396, APPEAL DISMISSED AND CERTIORARI DENIED.
 
-PER CURIAM.
+    GARVIN V. MASSACHUSETTS.
 
-THE APPEAL IS DISMISSED FOR WANT OF JURISDICTION.  TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR A WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+    APPEAL FROM THE SUPREME JUDICIAL COURT OF MASSACHUSETTS.
 
+    PER CURIAM.
+
+    THE APPEAL IS DISMISSED FOR WANT OF JURISDICTION.  TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR A WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F389%2F13)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/389/13]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F389%2F13
+
 

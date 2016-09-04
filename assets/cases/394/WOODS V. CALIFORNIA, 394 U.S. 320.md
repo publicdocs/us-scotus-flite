@@ -1,32 +1,43 @@
 ---
+title: WOODS V. CALIFORNIA, 394 U.S. 320
 ---
 
 # WOODS V. CALIFORNIA, 394 U.S. 320
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-WOODS V. CALIFORNIA, 394 U.S. 320
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F394%2F320)
 
-WOODS V. CALIFORNIA.
+----------
 
-APPEAL FROM THE APPELLATE DEPARTMENT, SUPERIOR COURT OF CALIFORNIA, COUNTY OF LOS ANGELES.
+    WOODS V. CALIFORNIA, [394 U.S. 320][/us/courts/scotus/usReporter/394/320]
 
-NO. 1006.  DECIDED MARCH 24, 1969.
+    WOODS V. CALIFORNIA.
 
-APPEAL DISMISSED.
+    APPEAL FROM THE APPELLATE DEPARTMENT, SUPERIOR COURT OF CALIFORNIA, COUNTY OF LOS ANGELES.
 
-PER CURIAM.
+    NO. 1006.  DECIDED MARCH 24, 1969.
 
-THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+    APPEAL DISMISSED.
 
-BURTON MARKS FOR APPELLANT.
+    PER CURIAM.
 
+    THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+
+    BURTON MARKS FOR APPELLANT.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F394%2F320)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/394/320]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F394%2F320
+
 

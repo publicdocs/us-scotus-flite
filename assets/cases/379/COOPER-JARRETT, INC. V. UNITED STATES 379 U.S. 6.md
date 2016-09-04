@@ -1,28 +1,39 @@
 ---
+title: COOPER-JARRETT, INC. V. UNITED STATES 379 U.S. 6
 ---
 
 # COOPER-JARRETT, INC. V. UNITED STATES 379 U.S. 6
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-COOPER-JARRETT, INC. V. UNITED STATES 379 U.S. 6
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F379%2F6)
 
-NO. 159.  DECIDED OCTOBER 12, 1964.  - 226 F. SUPP. 318, AFFIRMED.
+----------
 
-COOPER-JARRETT, INC., ET AL. V. UNITED STATES ET AL.
+    COOPER-JARRETT, INC. V. UNITED STATES [379 U.S. 6][/us/courts/scotus/usReporter/379/6]
 
-APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF MISSOURI.
+    NO. 159.  DECIDED OCTOBER 12, 1964.  - 226 F. SUPP. 318, AFFIRMED.
 
-PER CURIAM.
+    COOPER-JARRETT, INC., ET AL. V. UNITED STATES ET AL.
 
-THE MOTIONS TO AFFIRM ARE GRANTED AND THE JUDGMENT IS AFFIRMED.
+    APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF MISSOURI.
 
+    PER CURIAM.
+
+    THE MOTIONS TO AFFIRM ARE GRANTED AND THE JUDGMENT IS AFFIRMED.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F379%2F6)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/379/6]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F379%2F6
+
 

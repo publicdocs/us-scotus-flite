@@ -1,28 +1,39 @@
 ---
+title: SERVICE TRUCKING CO. V. UNITED STATES 382 U.S. 43
 ---
 
 # SERVICE TRUCKING CO. V. UNITED STATES 382 U.S. 43
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-SERVICE TRUCKING CO. V. UNITED STATES 382 U.S. 43
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F382%2F43)
 
-NO. 422.  DECIDED OCTOBER 25, 1965.  - 239 F. SUPP. 519, AFFIRMED.
+----------
 
-SERVICE TRUCKING CO., INC. V. UNITED STATES ET AL.
+    SERVICE TRUCKING CO. V. UNITED STATES [382 U.S. 43][/us/courts/scotus/usReporter/382/43]
 
-APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MARYLAND.
+    NO. 422.  DECIDED OCTOBER 25, 1965.  - 239 F. SUPP. 519, AFFIRMED.
 
-PER CURIAM.
+    SERVICE TRUCKING CO., INC. V. UNITED STATES ET AL.
 
-THE MOTIONS TO AFFIRM ARE GRANTED AND THE JUDGMENT IS AFFIRMED.
+    APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MARYLAND.
 
+    PER CURIAM.
+
+    THE MOTIONS TO AFFIRM ARE GRANTED AND THE JUDGMENT IS AFFIRMED.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F382%2F43)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/382/43]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F382%2F43
+
 

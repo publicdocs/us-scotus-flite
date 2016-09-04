@@ -1,30 +1,41 @@
 ---
+title: HAMILTON, ALIAS HAYDEN V. SUPERIOR COURT OF CALIFORNIA, IN AND FOR MARIN COUNTY 368 U.S. 8
 ---
 
 # HAMILTON, ALIAS HAYDEN V. SUPERIOR COURT OF CALIFORNIA, IN AND FOR MARIN COUNTY 368 U.S. 8
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-HAMILTON, ALIAS HAYDEN V. SUPERIOR COURT OF CALIFORNIA, IN AND FOR MARIN COUNTY 368 U.S. 8
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F368%2F8)
 
-NO. 105, MISC.  DECIDED OCTOBER 9, 1961 - APPEAL DISMISSED AND CERTIORARI DENIED.
+----------
 
-HAMILTON, ALIAS HAYDEN, V. SUPERIOR COURT OF CALIFORNIA, IN AND FOR MARIN COUNTY.
+    HAMILTON, ALIAS HAYDEN V. SUPERIOR COURT OF CALIFORNIA, IN AND FOR MARIN COUNTY [368 U.S. 8][/us/courts/scotus/usReporter/368/8]
 
-APPEAL FROM THE DISTRICT COURT OF APPEAL OF CALIFORNIA, FIRST APPELLATE DISTRICT.
+    NO. 105, MISC.  DECIDED OCTOBER 9, 1961 - APPEAL DISMISSED AND CERTIORARI DENIED.
 
-PER CURIAM.
+    HAMILTON, ALIAS HAYDEN, V. SUPERIOR COURT OF CALIFORNIA, IN AND FOR MARIN COUNTY.
 
-THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED.
+    APPEAL FROM THE DISTRICT COURT OF APPEAL OF CALIFORNIA, FIRST APPELLATE DISTRICT.
 
-TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+    PER CURIAM.
 
+    THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED.
+
+    TREATING THE PAPERS WHEREON THE APPEAL WAS TAKEN AS A PETITION FOR WRIT OF CERTIORARI, CERTIORARI IS DENIED.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F368%2F8)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/368/8]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F368%2F8
+
 

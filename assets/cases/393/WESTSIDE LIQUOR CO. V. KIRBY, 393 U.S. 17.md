@@ -1,34 +1,45 @@
 ---
+title: WESTSIDE LIQUOR CO. V. KIRBY, 393 U.S. 17
 ---
 
 # WESTSIDE LIQUOR CO. V. KIRBY, 393 U.S. 17
 
-* Use of this file is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE)
-* See the [Document Metadata](../../../) for more information.
+* Use of this file is subject to the NOTICE at https://github.com/publicdocs/notice/blob/master/NOTICE
+* See the [Document Metadata](../../../index.md) for more information.
   This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
 
 ----------
 ----------
 
-WESTSIDE LIQUOR CO. V. KIRBY, 393 U.S. 17
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F393%2F17)
 
-WESTSIDE LIQUOR CO. V. KIRBY, DIRECTOR, DEPARTMENT OF ALCOHOLIC BEVERAGE CONTROL OF CALIFORNIA.
+----------
 
-APPEAL FROM THE COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.
+    WESTSIDE LIQUOR CO. V. KIRBY, [393 U.S. 17][/us/courts/scotus/usReporter/393/17]
 
-NO. 324.  DECIDED OCTOBER 14, 1968.
+    WESTSIDE LIQUOR CO. V. KIRBY, DIRECTOR, DEPARTMENT OF ALCOHOLIC BEVERAGE CONTROL OF CALIFORNIA.
 
-259 CAL.APP.2D 511, 66 CAL.RPTR.  434, APPEAL DISMISSED.
+    APPEAL FROM THE COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT.
 
-PER CURIAM.
+    NO. 324.  DECIDED OCTOBER 14, 1968.
 
-THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
+    259 CAL.APP.2D 511, 66 CAL.RPTR.  434, APPEAL DISMISSED.
 
-HAROLD EASTON FOR APPELLANT.
+    PER CURIAM.
 
-THOMAS C. LYNCH, ATTORNEY GENERAL OF CALIFORNIA, AND LYNN HENRY JOHNSON, DEPUTY ATTORNEY GENERAL, FOR APPELLEE.
+    THE MOTION TO DISMISS IS GRANTED AND THE APPEAL IS DISMISSED FOR WANT OF A SUBSTANTIAL FEDERAL QUESTION.
 
+    HAROLD EASTON FOR APPELLANT.
+
+    THOMAS C. LYNCH, ATTORNEY GENERAL OF CALIFORNIA, AND LYNN HENRY JOHNSON, DEPUTY ATTORNEY GENERAL, FOR APPELLEE.
+
+----------
+
+[Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F393%2F17)
 
 ----------
 ----------
+
+[/us/courts/scotus/usReporter/393/17]: https://publicdocs.github.io/go/links?ns=uslm-x&ref=%2Fus%2Fcourts%2Fscotus%2FusReporter%2F393%2F17
+
 
